@@ -46,7 +46,7 @@
 // Set password to "" for open networks.
 
 char ssid[] = "IZZI-CFFC-5G";          // Your WiFi SSID
-char pass[] = "Z4z22r9KHgXsq3GsCR"; 
+char pass[] = ""; 
 
 void setup()
 {
